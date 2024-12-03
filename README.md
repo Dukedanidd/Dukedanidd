@@ -31,6 +31,7 @@
 
 ### Social Links:
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://twitter.com/tu-usuario" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://x.com/dukedevdani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/x.svg" alt="X" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/duke-dani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/dukedanidd/profilecard/?igsh=MXc0a3R1YWN0eGx4ZA==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 </p>

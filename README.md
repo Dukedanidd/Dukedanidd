@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on impactful **AI-powered applications**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielBalderrama](https://github.com/DanielBalderrama)
+- 👨‍💻 All of my projects are available at ([https://github.com/Dukedanidd/])
 
-- 📫 How to reach me: **daniel.balderrama.dev@gmail.com**
+- 📫 How to reach me: **jd.daniel.contact@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

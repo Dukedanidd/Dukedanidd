@@ -21,6 +21,27 @@
 
 ---
 
+### 🛠️ **Tecnologías que manejo**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</div>
+
+---
+
 ### 📊 **Estadísticas**
 
 <div align="center">
@@ -37,7 +58,8 @@
 
 ### 🎓 **Mi desempeño**
 <div align="center">
-  <img src="https://progress-bar.dev/80/?title=Desempeño%20B+&color=F4A261" alt="Desempeño" width="60%" />
+  <h4>Desempeño general</h4>
+  <img src="https://progress-bar.dev/85/?title=Desempeño%20B%2B&color=F4A261" alt="Desempeño" width="60%" />
 </div>
 
 ---
@@ -54,14 +76,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
-
-### 🛠️ **Proyectos destacados**
-- [🔗 MyndFeed](https://myndfeed.app) - Acompañante emocional basado en IA.
-- [🔗 Analizador léxico](https://github.com/tu_usuario/lexical-analyzer) - Identificador de tokens para lenguajes simples.
-
----
-
-### ⚡ **¿Quieres colaborar?**
-¡Contáctame por mis redes o revisa mis repositorios para construir algo increíble juntos! 🚀

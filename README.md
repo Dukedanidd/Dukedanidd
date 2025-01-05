@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dukedanidd" alt="profile views" /> </p>
 
 - 🔭 I’m currently working on [Myndfeed](https://myndfeed.app)
-- 🔭 I’m currently working on [codexiadds](codexiadds.com)
+- 🔭 I’m currently working on [codexiadds](https://codexiadds.com/)
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **open-source AI projects**
 - 📫 How to reach me: **jd.daniel.contact@gmail.com**

@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **open-source AI projects**
 - 📫 How to reach me: **jd.daniel.contact@gmail.com**
 - 💻 Site about me( in process )
-
+ 
 ### Technologies I work with:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>

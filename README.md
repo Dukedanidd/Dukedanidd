@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **open-source AI projects**
 - 📫 How to reach me: **jd.daniel.contact@gmail.com**
-- 💻 Site about me( in process 
+- 💻 Site about me -> [Portafolio](dukedanidd.vercel.app) 
  
 ### Technologies I work with:
 <p align="left">

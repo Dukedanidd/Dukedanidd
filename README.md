@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate developer specializing in JavaScript, Python, and machine learning technologies. I enjoy creating applications that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dukedanidd" alt="profile views" /> </p>
-
+.
 - 🔭 I’m currently working on [Myndfeed](https://myndfeed.app)
 - 🔭 I’m currently working on [codexiadds](https://codexiadds.com/)
 - 🌱 I’m currently learning **Flutter**

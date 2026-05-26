@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="LEGO_sentado.png" width="220" alt="Duke Lego" />
-</div>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Dukedanidd&color=A855F7&style=flat-square&label=Profile+Views)
 
 # Hey, I'm Duke 👋
@@ -18,8 +14,8 @@ I write JS, Python, and whatever the problem needs.
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [**Myndfeed**](https://myndfeed.app) | TypeScript · Next.js | 🟢 Active |
-| [**Codexiadds**](https://codexiadds.com) | JavaScript | 🟢 Active |
+| [**SudoSports**](https://sudosports.app) | Expo · React Native · Swift · Kotlin | 🟢 Active |
+| [**Natal.ia**](https://oyenatalia.com) | Typescript · Next JS · Landgraph · TailwindCSS · Elevenlabs | 🟢 Active |
 
 ---
 
@@ -68,7 +64,7 @@ I write JS, Python, and whatever the problem needs.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dukedanidd.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duke-dani)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dukethropic)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dukedevdani)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/dukethropic))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd.daniel.contact@gmail.com)
 
 ---
